@@ -1,0 +1,5 @@
+.pager li .active {
+    color: rgb(181, 43, 39) !important;
+    font-weight: bold;
+
+}
